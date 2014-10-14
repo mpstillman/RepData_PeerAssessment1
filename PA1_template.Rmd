@@ -4,7 +4,14 @@ output:
   html_document:
     keep_md: true
 ---
+Coursera
+Data Science
+Reproducible Research
+Course Assignment #1
+Mike Stillman
+10/13/2014
 
+========================================================
 
 ## Loading and preprocessing the data
 
