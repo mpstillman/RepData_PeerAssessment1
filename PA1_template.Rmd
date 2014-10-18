@@ -10,11 +10,10 @@ Reproducible Research
 Course Assignment #1
 Mike Stillman
 10/13/2014
-
 ========================================================
 
 ## Loading and preprocessing the data
-
+This analysis will involved loading and preprocessing the 
 
 
 ## What is mean total number of steps taken per day?
